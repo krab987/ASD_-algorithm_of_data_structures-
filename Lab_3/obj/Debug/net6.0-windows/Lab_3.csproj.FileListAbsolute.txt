@@ -1,0 +1,34 @@
+C:\projects C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.exe
+C:\projects C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.deps.json
+C:\projects C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.runtimeconfig.json
+C:\projects C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.dll
+C:\projects C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.pdb
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.csproj.AssemblyReference.cache
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.Form1.resources
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.csproj.GenerateResource.cache
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.AssemblyInfoInputs.cache
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.AssemblyInfo.cs
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.csproj.CoreCompileInputs.cache
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.dll
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\refint\Lab_3.dll
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.pdb
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.genruntimeconfig.cache
+C:\projects C#\АСД\Lab_3\obj\Debug\net6.0-windows\ref\Lab_3.dll
+D:\projects\C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.exe
+D:\projects\C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.deps.json
+D:\projects\C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.runtimeconfig.json
+D:\projects\C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.dll
+D:\projects\C#\АСД\Lab_3\bin\Debug\net6.0-windows\Lab_3.pdb
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.csproj.AssemblyReference.cache
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.Form1.resources
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.csproj.GenerateResource.cache
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.AssemblyInfoInputs.cache
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.AssemblyInfo.cs
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.csproj.CoreCompileInputs.cache
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.dll
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\refint\Lab_3.dll
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.pdb
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\Lab_3.genruntimeconfig.cache
+D:\projects\C#\АСД\Lab_3\obj\Debug\net6.0-windows\ref\Lab_3.dll

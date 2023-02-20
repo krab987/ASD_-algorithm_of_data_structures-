@@ -1,0 +1,36 @@
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.exe
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.deps.json
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.runtimeconfig.json
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.dll
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.pdb
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.csproj.AssemblyReference.cache
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.AssemblyInfoInputs.cache
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.AssemblyInfo.cs
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.csproj.CoreCompileInputs.cache
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.dll
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\refint\Try_twoway_stack.dll
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.pdb
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.genruntimeconfig.cache
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\ref\Try_twoway_stack.dll
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Lab_1.deps.json
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Lab_1.runtimeconfig.json
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Lab_1.exe
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.exe
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.deps.json
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.runtimeconfig.json
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.dll
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway_stack.pdb
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Lab_1.dll
+D:\projects\C#\АСД\Try_twoway\bin\Debug\net6.0\Lab_1.pdb
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.csproj.AssemblyReference.cache
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.AssemblyInfoInputs.cache
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.AssemblyInfo.cs
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.csproj.CoreCompileInputs.cache
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.csproj.CopyComplete
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.dll
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\refint\Try_twoway_stack.dll
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.pdb
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway_stack.genruntimeconfig.cache
+D:\projects\C#\АСД\Try_twoway\obj\Debug\net6.0\ref\Try_twoway_stack.dll

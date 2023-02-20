@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab_3_normal</name>
+    </assembly>
+    <members>
+        <member name="F:Lab_3_normal.Lab_3.components">
+            <summary>
+             Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Lab_3_normal.Lab_3.Dispose(System.Boolean)">
+            <summary>
+             Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Lab_3_normal.Lab_3.InitializeComponent">
+            <summary>
+             Required method for Designer support - do not modify
+             the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyArrayList.AddEl(System.Int32,Lab_3_normal.Module.EasyLinkedList)">
+            <summary>
+            AddEl(int index, EasyLinkedList el) - Метод, що додає підсписок до списку 
+            </summary>
+            <param name="index">index - індекс для ArrayList</param>
+            <param name="el">el - елемент LinkedList(підсписку), що буде додано до ArraList(списку)</param>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyArrayList.RemoveEl(System.Int32,System.String)">
+            <summary>
+            RemoveEl(int i, string j) - Видаляє елемент
+            </summary>
+            <param name="i">i - індекс для ArrayList</param>
+            <param name="j">j - елемент, що буде видалено</param>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyArrayList.AddLastElem(System.Int32,Lab_3_normal.Module.Item)">
+            <summary>
+            AddLastElem(int i, Item el) - Додає елемент до LinkedList(підсписку) за індексом
+            </summary>
+            <param name="i">i - індекс списку</param>
+            <param name="el">el - елемент, що буде додано</param>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyArrayList.FirstEl(System.Int32)">
+            <summary>
+            FirstEl - Знаходження першого елементу
+            </summary>
+            <param name="i">i - індекс ArraList(списку)</param>
+            <returns>Повертає: перший елемент LinkedList(підсписку) за індексом ArraList(списку)</returns>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyArrayList.Check(System.Int32)">
+            <summary>
+            Check(int i) - Перевірка чи пустий підсписок
+            </summary>
+            <param name="i">i - індекс для ArraList(списку)</param>
+            <returns>Повертає: true/false значення - чи пустий зазначений підсписок</returns>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyArrayList.GetIndex(System.Int32)">
+            <summary>
+            GetIndex(int key) - Дізнатись індекс по ключу
+            </summary>
+            <param name="key">key - ключ, по якомй знайдемо значення індексу</param>
+            <returns>Повертає: індекс ArraList(списку)</returns>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyLinkedList.AddLastEl(Lab_3_normal.Module.Item)">
+            <summary>
+            AddLastEl(Item el) - Додає елементв кінець
+            </summary>
+            <param name="el">el - елемент, що буде додано</param>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyLinkedList.RemoveEl(Lab_3_normal.Module.Item)">
+            <summary>
+            RemoveEl - Видаляє елемент
+            </summary>
+            <param name="el">el - елемент, що буде видалено</param>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyLinkedList.FirstEl">
+            <summary>
+            FirstEl() - Знаходить перший елемент
+            </summary>
+            <returns>Повертає: перший елемент</returns>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyLinkedList.Find(System.String)">
+            <summary>
+            Find(string s): Пошук елементу
+            </summary>
+            <param name="s">s - елемент, що шукається</param>
+            <returns>Повертає: знайдений елемент типу Item</returns>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyLinkedList.Check">
+            <summary>
+            Check() - Перевірка
+            </summary>
+            <returns> Повертає: bool значення чи пустий LinkedList(підсписок)</returns>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyLinkedList.KeyEqual(System.Int32)">
+            <summary>
+            KeyEqual(int key) - Отримання індексу через ключ
+            </summary>
+            <param name="key">key - ключ</param>
+            <returns>Повертає: індекс</returns>
+        </member>
+        <member name="M:Lab_3_normal.Module.EasyLinkedList.ToString">
+            <summary>
+             override string ToString() - Розширення стандартного методу ToString - перетворює список в рядок: записує ключ та всі елементи списку
+            </summary>
+            <returns>Повертає: рядок з інформацією зі списку</returns>
+        </member>
+        <member name="M:Lab_3_normal.Program.Main">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Lab_3_normal.ApplicationConfiguration">
+            <summary>
+             Bootstrap the application configuration.
+            </summary>
+        </member>
+        <member name="M:Lab_3_normal.ApplicationConfiguration.Initialize">
+            <summary>
+             Bootstrap the application as follows:
+             <code>
+             global::System.Windows.Forms.Application.EnableVisualStyles();
+             global::System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
+             global::System.Windows.Forms.Application.SetHighDpiMode(HighDpiMode.SystemAware);
+            </code>
+            </summary>
+        </member>
+    </members>
+</doc>

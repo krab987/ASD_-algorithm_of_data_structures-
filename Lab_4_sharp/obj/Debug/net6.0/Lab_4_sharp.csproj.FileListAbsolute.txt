@@ -1,0 +1,15 @@
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\Lab_4_sharp.csproj.AssemblyReference.cache
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\Lab_4_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\Lab_4_sharp.AssemblyInfoInputs.cache
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\Lab_4_sharp.AssemblyInfo.cs
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\Lab_4_sharp.csproj.CoreCompileInputs.cache
+D:\projects\C#\АСД\Lab_4_sharp\bin\Debug\net6.0\Lab_4_sharp.exe
+D:\projects\C#\АСД\Lab_4_sharp\bin\Debug\net6.0\Lab_4_sharp.deps.json
+D:\projects\C#\АСД\Lab_4_sharp\bin\Debug\net6.0\Lab_4_sharp.runtimeconfig.json
+D:\projects\C#\АСД\Lab_4_sharp\bin\Debug\net6.0\Lab_4_sharp.dll
+D:\projects\C#\АСД\Lab_4_sharp\bin\Debug\net6.0\Lab_4_sharp.pdb
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\Lab_4_sharp.dll
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\refint\Lab_4_sharp.dll
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\Lab_4_sharp.pdb
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\Lab_4_sharp.genruntimeconfig.cache
+D:\projects\C#\АСД\Lab_4_sharp\obj\Debug\net6.0\ref\Lab_4_sharp.dll

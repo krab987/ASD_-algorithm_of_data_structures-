@@ -1,0 +1,30 @@
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.csproj.AssemblyReference.cache
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfoInputs.cache
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfo.cs
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\projects C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.exe
+C:\projects C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.deps.json
+C:\projects C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.runtimeconfig.json
+C:\projects C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.dll
+C:\projects C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.pdb
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.dll
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\refint\Lab_2.dll
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.pdb
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.genruntimeconfig.cache
+C:\projects C#\АСД\Lab_2\obj\Debug\net6.0\ref\Lab_2.dll
+D:\projects\C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.exe
+D:\projects\C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.deps.json
+D:\projects\C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.runtimeconfig.json
+D:\projects\C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.dll
+D:\projects\C#\АСД\Lab_2\bin\Debug\net6.0\Lab_2.pdb
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.csproj.AssemblyReference.cache
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfoInputs.cache
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfo.cs
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.csproj.CoreCompileInputs.cache
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.dll
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\refint\Lab_2.dll
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.pdb
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\Lab_2.genruntimeconfig.cache
+D:\projects\C#\АСД\Lab_2\obj\Debug\net6.0\ref\Lab_2.dll

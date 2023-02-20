@@ -1,0 +1,11 @@
+D:\projects\C#\АСД\Lab_4_window\bin\Debug\Lab_4_window.exe.config
+D:\projects\C#\АСД\Lab_4_window\bin\Debug\Lab_4_window.exe
+D:\projects\C#\АСД\Lab_4_window\bin\Debug\Lab_4_window.pdb
+D:\projects\C#\АСД\Lab_4_window\obj\Debug\Lab_4_window.csproj.AssemblyReference.cache
+D:\projects\C#\АСД\Lab_4_window\obj\Debug\Lab_4_window.csproj.SuggestedBindingRedirects.cache
+D:\projects\C#\АСД\Lab_4_window\obj\Debug\Lab_4_window.Lab_4_window.resources
+D:\projects\C#\АСД\Lab_4_window\obj\Debug\Lab_4_window.Properties.Resources.resources
+D:\projects\C#\АСД\Lab_4_window\obj\Debug\Lab_4_window.csproj.GenerateResource.cache
+D:\projects\C#\АСД\Lab_4_window\obj\Debug\Lab_4_window.csproj.CoreCompileInputs.cache
+D:\projects\C#\АСД\Lab_4_window\obj\Debug\Lab_4_window.exe
+D:\projects\C#\АСД\Lab_4_window\obj\Debug\Lab_4_window.pdb

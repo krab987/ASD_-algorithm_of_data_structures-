@@ -1,0 +1,15 @@
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway.exe
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway.deps.json
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway.runtimeconfig.json
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway.dll
+C:\projects C#\АСД\Try_twoway\bin\Debug\net6.0\Try_twoway.pdb
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway.csproj.AssemblyReference.cache
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway.AssemblyInfoInputs.cache
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway.AssemblyInfo.cs
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway.csproj.CoreCompileInputs.cache
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway.dll
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\refint\Try_twoway.dll
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway.pdb
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\Try_twoway.genruntimeconfig.cache
+C:\projects C#\АСД\Try_twoway\obj\Debug\net6.0\ref\Try_twoway.dll

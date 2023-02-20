@@ -1,0 +1,15 @@
+D:\projects\C#\АСД\Try\bin\Debug\net6.0\Try_oneway_stack.exe
+D:\projects\C#\АСД\Try\bin\Debug\net6.0\Try_oneway_stack.deps.json
+D:\projects\C#\АСД\Try\bin\Debug\net6.0\Try_oneway_stack.runtimeconfig.json
+D:\projects\C#\АСД\Try\bin\Debug\net6.0\Try_oneway_stack.dll
+D:\projects\C#\АСД\Try\bin\Debug\net6.0\Try_oneway_stack.pdb
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\Try_oneway_stack.csproj.AssemblyReference.cache
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\Try_oneway_stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\Try_oneway_stack.AssemblyInfoInputs.cache
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\Try_oneway_stack.AssemblyInfo.cs
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\Try_oneway_stack.csproj.CoreCompileInputs.cache
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\Try_oneway_stack.dll
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\refint\Try_oneway_stack.dll
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\Try_oneway_stack.pdb
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\Try_oneway_stack.genruntimeconfig.cache
+D:\projects\C#\АСД\Try\obj\Debug\net6.0\ref\Try_oneway_stack.dll

@@ -1,0 +1,15 @@
+D:\projects\C#\АСД\Try_Twoway_queue\bin\Debug\net6.0\Try_Twoway_queue.exe
+D:\projects\C#\АСД\Try_Twoway_queue\bin\Debug\net6.0\Try_Twoway_queue.deps.json
+D:\projects\C#\АСД\Try_Twoway_queue\bin\Debug\net6.0\Try_Twoway_queue.runtimeconfig.json
+D:\projects\C#\АСД\Try_Twoway_queue\bin\Debug\net6.0\Try_Twoway_queue.dll
+D:\projects\C#\АСД\Try_Twoway_queue\bin\Debug\net6.0\Try_Twoway_queue.pdb
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\Try_Twoway_queue.csproj.AssemblyReference.cache
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\Try_Twoway_queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\Try_Twoway_queue.AssemblyInfoInputs.cache
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\Try_Twoway_queue.AssemblyInfo.cs
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\Try_Twoway_queue.csproj.CoreCompileInputs.cache
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\Try_Twoway_queue.dll
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\refint\Try_Twoway_queue.dll
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\Try_Twoway_queue.pdb
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\Try_Twoway_queue.genruntimeconfig.cache
+D:\projects\C#\АСД\Try_Twoway_queue\obj\Debug\net6.0\ref\Try_Twoway_queue.dll

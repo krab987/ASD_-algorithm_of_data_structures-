@@ -1,0 +1,15 @@
+C:\projects C#\Try\Try\bin\Debug\net6.0\Try.exe
+C:\projects C#\Try\Try\bin\Debug\net6.0\Try.deps.json
+C:\projects C#\Try\Try\bin\Debug\net6.0\Try.runtimeconfig.json
+C:\projects C#\Try\Try\bin\Debug\net6.0\Try.dll
+C:\projects C#\Try\Try\bin\Debug\net6.0\Try.pdb
+C:\projects C#\Try\Try\obj\Debug\net6.0\Try.csproj.AssemblyReference.cache
+C:\projects C#\Try\Try\obj\Debug\net6.0\Try.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\Try\Try\obj\Debug\net6.0\Try.AssemblyInfoInputs.cache
+C:\projects C#\Try\Try\obj\Debug\net6.0\Try.AssemblyInfo.cs
+C:\projects C#\Try\Try\obj\Debug\net6.0\Try.csproj.CoreCompileInputs.cache
+C:\projects C#\Try\Try\obj\Debug\net6.0\Try.dll
+C:\projects C#\Try\Try\obj\Debug\net6.0\refint\Try.dll
+C:\projects C#\Try\Try\obj\Debug\net6.0\Try.pdb
+C:\projects C#\Try\Try\obj\Debug\net6.0\Try.genruntimeconfig.cache
+C:\projects C#\Try\Try\obj\Debug\net6.0\ref\Try.dll

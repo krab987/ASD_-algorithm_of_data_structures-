@@ -1,0 +1,30 @@
+C:\projects C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.exe
+C:\projects C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.deps.json
+C:\projects C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.runtimeconfig.json
+C:\projects C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.dll
+C:\projects C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.pdb
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.csproj.AssemblyReference.cache
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.AssemblyInfoInputs.cache
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.AssemblyInfo.cs
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.csproj.CoreCompileInputs.cache
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.dll
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\refint\Lab_3_Console.dll
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.pdb
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.genruntimeconfig.cache
+C:\projects C#\АСД\Lab_3_Console\obj\Debug\net6.0\ref\Lab_3_Console.dll
+D:\projects\C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.exe
+D:\projects\C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.deps.json
+D:\projects\C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.runtimeconfig.json
+D:\projects\C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.dll
+D:\projects\C#\АСД\Lab_3_Console\bin\Debug\net6.0\Lab_3_Console.pdb
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.csproj.AssemblyReference.cache
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.AssemblyInfoInputs.cache
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.AssemblyInfo.cs
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.csproj.CoreCompileInputs.cache
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.dll
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\refint\Lab_3_Console.dll
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.pdb
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\Lab_3_Console.genruntimeconfig.cache
+D:\projects\C#\АСД\Lab_3_Console\obj\Debug\net6.0\ref\Lab_3_Console.dll
